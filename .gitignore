@@ -1,0 +1,5 @@
+*.o
+*.a
+NBody
+test
+.vscode
